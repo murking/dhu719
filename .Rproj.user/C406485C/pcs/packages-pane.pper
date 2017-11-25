@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "/Users/zjh-mac/anaconda/envs/r/lib/R/library"
+    }
+}

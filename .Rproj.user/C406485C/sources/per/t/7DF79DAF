@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509676232633.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2327123874",
+    "id" : "7DF79DAF",
+    "lastKnownWriteTime" : 1510374771,
+    "last_content_update" : 1510374771308,
+    "path" : "~/Documents/Acheng/dhu719/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "16,2",
+        "scrollLine" : "4"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

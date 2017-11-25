@@ -1,0 +1,13 @@
+name: dhu719
+title: dhu719
+username:
+account: dhu719
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 231563
+bundleId: 1064924
+url: https://dhu719.shinyapps.io/dhu719/
+when: 1510151239.35235
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: a.RData
